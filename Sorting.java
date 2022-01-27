@@ -2,7 +2,7 @@ public class Sorting {
 
     public static void main(String[] args) {
 
-        int a[]={9,0,3,2,1};
+        int a[]={10,2,5,1,9,3};
         int min_index=0;
         boolean flag=false;
         for(int i=min_index; i<a.length;){
